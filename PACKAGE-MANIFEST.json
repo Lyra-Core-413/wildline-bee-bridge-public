@@ -1,0 +1,151 @@
+{
+  "derivative_version": "v1.1-public.1",
+  "files": {
+    ".gitignore": {
+      "bytes": 171,
+      "sha256": "ef5fcd8cca07d56f04ce28f65bdf8303049518a1b3a83e10eeaef2e43e530d77"
+    },
+    "CHANGE-RECORD.md": {
+      "bytes": 4605,
+      "sha256": "b6ad70198610d47b2f41ff7835f7bccd0f8692c0ea2e75cc976a92f5dc6e2bab"
+    },
+    "LICENSE": {
+      "bytes": 1090,
+      "sha256": "a45966fe723347be9d1864a22d7d01cdd2e4b8ed5a83c839c5f7f76ccd0479a2"
+    },
+    "LICENSE-REVIEW.md": {
+      "bytes": 3706,
+      "sha256": "65b022b12bbd86ec922cf66ed373ec8483dbfb293bbda72f454f7042abba43f2"
+    },
+    "PRIVACY.md": {
+      "bytes": 4696,
+      "sha256": "01331fbde091f9916f1e0c52f97dcec2172c2b938c758960035cfd625aa60e28"
+    },
+    "README.md": {
+      "bytes": 8619,
+      "sha256": "781f017f60501c5dd66035aa30cab0037b87b66b4c6d8c5c16a5e6455a974140"
+    },
+    "RUN-JUDGE.cmd": {
+      "bytes": 93,
+      "sha256": "72c7d7fba2cbec064cc5903554a12466946775dd9d1d9887b65b68436aadf248"
+    },
+    "RUN-TESTS.cmd": {
+      "bytes": 74,
+      "sha256": "02517aafc9ba16a3aff18ea22c7bdc0d034e376d2661581f767d8067e28f4388"
+    },
+    "bee_runtime.py": {
+      "bytes": 14095,
+      "sha256": "c95cd0a9601d8bee5241f9a12cdf7ba9830fa8e9df6daac5b13a18a076cf762c"
+    },
+    "docs/ARCHITECTURE-AND-BOUNDARIES.md": {
+      "bytes": 5442,
+      "sha256": "0189830a20c986e95e2cd3f530c75da2093425657b74155d704045d5a0690200"
+    },
+    "docs/BUILD-AND-TEST.md": {
+      "bytes": 12276,
+      "sha256": "4fc7c6b4d173a0fa39bbaf058eaddfc39c7f6b43cd5f7b5e8ae445163a77df65"
+    },
+    "docs/DEMO-AND-VERIFICATION.md": {
+      "bytes": 7924,
+      "sha256": "761a1a3c5d2a34d987da6ff4de3df503ce32f4f31445aa1222268ac8f64b076c"
+    },
+    "docs/EVIDENCE-BOUNDARIES.md": {
+      "bytes": 5978,
+      "sha256": "917b9d85920ad5c5bd6ad1386d09dc14a89a4b1a7bea8ace89d3f2a554a27768"
+    },
+    "docs/FAQ.md": {
+      "bytes": 4364,
+      "sha256": "ee6d08a28486958c5f6b65a558eab41c6cc8909acca868859b9ebd1b5899f99e"
+    },
+    "docs/IMPLEMENTATION-RECORD-NOTE.md": {
+      "bytes": 1147,
+      "sha256": "fe12fb0a1b4ad4128db9c9672b099a3c6e935ca72b8a8757157d696e9945e3b2"
+    },
+    "docs/PROJECT-STORY.md": {
+      "bytes": 3065,
+      "sha256": "540fa2afa4b3da04c52d3b548e6c5d2a1e86fce58978ae0318b01a649771a126"
+    },
+    "docs/ROADMAP-AND-VISION.md": {
+      "bytes": 4627,
+      "sha256": "77214a21a5b7586feaf05ffbccbb9094cd16882741f4cfa2b30ef2f3cb217f7e"
+    },
+    "fixtures/fictional-cli-response.json": {
+      "bytes": 172,
+      "sha256": "6711ef38529d074ca34b939a09d6242c8d016892d5aa5ef12b4c3818ccc5fe33"
+    },
+    "package_integrity.py": {
+      "bytes": 1603,
+      "sha256": "67218ed19cb9cd9c9d8d4951ecb49dcec67609b2416b287e4360c66b4cd7d8c1"
+    },
+    "private_work.py": {
+      "bytes": 5697,
+      "sha256": "bf0e7b1d4d9437091d9ec795f79e2119b9a827fe5be04778b5da076561dea234"
+    },
+    "process_control.py": {
+      "bytes": 4741,
+      "sha256": "807d03bb43c58644e151d0d90c747446a54a4b5cc65b9b939df2f75de5fd2a63"
+    },
+    "reader_capability_probe.py": {
+      "bytes": 574,
+      "sha256": "2fa58fc66e6b65d39facec3891e3192e09b1821c2bd1e485b97cb636e7523e73"
+    },
+    "real/capability_probe.py": {
+      "bytes": 660,
+      "sha256": "345431822d2a32d4643c4ef3380fe66dfcf641786a0d6257a72ce8695d36f0e7"
+    },
+    "real/fault_probe.py": {
+      "bytes": 548,
+      "sha256": "cc0cae198fd7dc3c506ec3b3eae24dbf1e552821513951ab03102f650c64920c"
+    },
+    "real/fixtures/A.json": {
+      "bytes": 452,
+      "sha256": "4d462e6ff72faac93ff58afbd175509974c550aa82542b057015497e8d6a13f2"
+    },
+    "real/fixtures/B.json": {
+      "bytes": 476,
+      "sha256": "dc10cd274ca417b334d106eaaadfcb6cf71724c21e6cd85e91a79560b5b98886"
+    },
+    "real/h5_sidecar.py": {
+      "bytes": 19286,
+      "sha256": "6704ac1281c7a8578ad8010bfaf73d842482b227cdae9dd1a3d23ecae26d5cbe"
+    },
+    "real/test_h5.py": {
+      "bytes": 11525,
+      "sha256": "dcb8d524c29882c3b62b3ef75781c594a9c7580ad9bda4a57a4cd2576ced8bc9"
+    },
+    "requirements.txt": {
+      "bytes": 168,
+      "sha256": "fc794f4ba8719c03dd8efdf7e8828aa1cb0f010f3ffc4163a92ab6f8065d5218"
+    },
+    "run_tests.py": {
+      "bytes": 891,
+      "sha256": "9a563324bdc5a9b14f7e4017bd667a8929480e96611e5c94e915dafdbd71d0cc"
+    },
+    "single_bridge.py": {
+      "bytes": 7039,
+      "sha256": "f7b0d0a16a869a5f49350d1bd833786e5a8cd1f9da9aad5111388050662c9cbb"
+    },
+    "single_reader.py": {
+      "bytes": 6261,
+      "sha256": "4db449ef37eedf5f3686a302e877e62b23500a65b3a5c5ffdbbe9f7c124f75a5"
+    },
+    "test_bee_runtime.py": {
+      "bytes": 13759,
+      "sha256": "793eb7ee14657ae3155ee0371f4a3ee1b178be957fca6f262d30ea2186ca05da"
+    },
+    "test_bridge.py": {
+      "bytes": 13011,
+      "sha256": "26dab0e402109c5236d9e32aaaef64856bef04f3dceb4663a458de60427681c0"
+    },
+    "test_process_control.py": {
+      "bytes": 4530,
+      "sha256": "33c9d5bd0670685e75a7c38b221fe20e076a2192541d4fb6e96ee5f795c24a75"
+    }
+  },
+  "format": "WILDLINE_PRIVATE_SINGLE_BRIDGE_V1",
+  "integration_scope": "Public judging derivative: fictional refusal-policy fingerprint replaces private record fingerprint in two locations; engine integrity pin refreshed; public setup documentation and scoped MIT license added. No private source data, live calls or model calls.",
+  "public_publication_authorized": true,
+  "publication_authorized": true,
+  "publication_scope": "SANITIZED_PUBLIC_JUDGING_SOURCE_WITH_MIT_PROJECT_OWNED_CODE",
+  "second_computer_tested": false
+}

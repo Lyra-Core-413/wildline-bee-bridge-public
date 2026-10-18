@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# Private operation data must never be stored here, even in a private repository.
+*.db
+*.sqlite*
+.env*
+runtime-observations/
+runs/
+evidence/
+test-runs/

@@ -1,0 +1,2 @@
+# Standard library only. Windows 10/11; Python 3.14, tested 3.14.7 x64.
+# Optional external user-installed native @beeai/cli 0.7.3 for separately authorized live read.
