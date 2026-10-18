@@ -1,5 +1,5 @@
 {
-  "derivative_version": "v1.1-public.1",
+  "derivative_version": "v1.1-public.2-docs",
   "files": {
     ".gitignore": {
       "bytes": 171,
@@ -22,8 +22,8 @@
       "sha256": "01331fbde091f9916f1e0c52f97dcec2172c2b938c758960035cfd625aa60e28"
     },
     "README.md": {
-      "bytes": 8619,
-      "sha256": "781f017f60501c5dd66035aa30cab0037b87b66b4c6d8c5c16a5e6455a974140"
+      "bytes": 10663,
+      "sha256": "df49e6343789049b2728ada6c47830627a7984e21b25aa1751a36569ed88ed47"
     },
     "RUN-JUDGE.cmd": {
       "bytes": 93,
@@ -38,20 +38,20 @@
       "sha256": "c95cd0a9601d8bee5241f9a12cdf7ba9830fa8e9df6daac5b13a18a076cf762c"
     },
     "docs/ARCHITECTURE-AND-BOUNDARIES.md": {
-      "bytes": 5442,
-      "sha256": "0189830a20c986e95e2cd3f530c75da2093425657b74155d704045d5a0690200"
+      "bytes": 5447,
+      "sha256": "5f3f4cbffef4c2c6505250404514a1ee2fe0696e0e785fe73d256af2f3a40210"
     },
     "docs/BUILD-AND-TEST.md": {
-      "bytes": 12276,
-      "sha256": "4fc7c6b4d173a0fa39bbaf058eaddfc39c7f6b43cd5f7b5e8ae445163a77df65"
+      "bytes": 12306,
+      "sha256": "ceeb623efecfe114202eb06dace4bcf9352b015e94effe487a8b2c23e7525929"
     },
     "docs/DEMO-AND-VERIFICATION.md": {
-      "bytes": 7924,
-      "sha256": "761a1a3c5d2a34d987da6ff4de3df503ce32f4f31445aa1222268ac8f64b076c"
+      "bytes": 7949,
+      "sha256": "a5464df5ce5192daa8ae93430ee9c2af18fa8617312f1aeb4960a594a27196fa"
     },
     "docs/EVIDENCE-BOUNDARIES.md": {
-      "bytes": 5978,
-      "sha256": "917b9d85920ad5c5bd6ad1386d09dc14a89a4b1a7bea8ace89d3f2a554a27768"
+      "bytes": 6788,
+      "sha256": "cfc9a5c9b67696519421aee4c0297b6ba98cbd81515358e3889e167616d834e9"
     },
     "docs/FAQ.md": {
       "bytes": 4364,
@@ -62,12 +62,12 @@
       "sha256": "fe12fb0a1b4ad4128db9c9672b099a3c6e935ca72b8a8757157d696e9945e3b2"
     },
     "docs/PROJECT-STORY.md": {
-      "bytes": 3065,
-      "sha256": "540fa2afa4b3da04c52d3b548e6c5d2a1e86fce58978ae0318b01a649771a126"
+      "bytes": 3961,
+      "sha256": "5fc49fa0dba3fa9cc0884a492dcfcd3afa2075d7f866240902c61920b8a517ed"
     },
     "docs/ROADMAP-AND-VISION.md": {
-      "bytes": 4627,
-      "sha256": "77214a21a5b7586feaf05ffbccbb9094cd16882741f4cfa2b30ef2f3cb217f7e"
+      "bytes": 5656,
+      "sha256": "e3dbfddc867f4d16e2ac1a09a5814c65fe8be955d86f0eb52bdb54cae0a4541d"
     },
     "fixtures/fictional-cli-response.json": {
       "bytes": 172,
@@ -143,9 +143,11 @@
     }
   },
   "format": "WILDLINE_PRIVATE_SINGLE_BRIDGE_V1",
-  "integration_scope": "Public judging derivative: fictional refusal-policy fingerprint replaces private record fingerprint in two locations; engine integrity pin refreshed; public setup documentation and scoped MIT license added. No private source data, live calls or model calls.",
+  "integration_scope": "October 18 MorrowWeave/Living Legacy presentation and public-link documentation revision. Executable source, tests, fixtures, dependencies and MIT LICENSE unchanged. Historical Windows test results retain their original attribution; Windows suite not rerun for this revision.",
   "public_publication_authorized": true,
   "publication_authorized": true,
   "publication_scope": "SANITIZED_PUBLIC_JUDGING_SOURCE_WITH_MIT_PROJECT_OWNED_CODE",
-  "second_computer_tested": false
+  "second_computer_tested": false,
+  "previous_manifest_sha256": "c5e07a651f10f0c783f8944ba0249ca421e54cbfac3410a3c34f39dfad103552",
+  "previous_public_commit": "bbe01e8c67a1a6492fc8f4435598d75e82c600e1"
 }

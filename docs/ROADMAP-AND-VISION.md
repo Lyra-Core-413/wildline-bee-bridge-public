@@ -1,3 +1,11 @@
+## Current MorrowWeave presentation
+
+**MorrowWeave** is the venture. **Project Wildline** is the continuity project. **Lyra Nexus** is the memory-observatory interface. **Living Legacy** is the experience and longer-term product vision.
+
+**[Enter the Living Legacy Reading Room — explore the Galaxy map](https://lyra-core-413.github.io/wildline-legacy-showcase/)** · [Devpost project](https://devpost.com/software/wildline)
+
+The current Reading Room is the Galaxy: 21 curated records and 11 labeled relationships across seven chapters. Select a star, inspect its source, or choose **Follow the Footsteps**. The public chapter explores how information overload led to the work called Wildline. Family access, broad synchronization and graph-aware conversation remain future capabilities. The LYRA launcher opens ChatGPT separately; Voice starts manually and receives no automatic map context.
+
 # Roadmap and vision
 
 ## Where we began
@@ -9,8 +17,8 @@ The founder needed to find commitments and decisions buried in a constant flow o
 ## Pending release work
 
 1. Preserve the adopted MIT notices and scoped ownership/dependency inventory for each approved public release; review rights when adding new components.
-2. Keep the separately published, fictional-only Continuity Reader and this owner-authorized public Bee Bridge derivative accurately scoped. Complete and record the Bridge's offline verification and anonymous public access for the exact released commit/ZIP. Preserved private packages and genuine operation evidence remain separate.
-3. Finish judge-facing GitHub/Devpost documentation and the under-three-minute video.
+2. Keep the separately published, fictional-only Continuity Reader and this owner-authorized public Bee Bridge derivative accurately scoped. The earlier public package at `bbe01e8c67a1` retains its existing verification; record fresh documentation/inventory checks separately for later revisions. Preserved private packages and genuine operation evidence remain separate.
+3. Keep [Devpost](https://devpost.com/software/wildline), its public under-three-minute video and the Galaxy Reading Room aligned. The entry remains a draft until Eric submits it.
 4. Record that the candidates have **not been independently tested on a second computer**. The founder has explicitly deferred second-computer testing for the hackathon; compatibility on another computer remains unverified. This does not change the scope or validity of the existing same-computer technical proof.
 5. Receive any organizer clarification about Bee evidence without halting other release preparation.
 

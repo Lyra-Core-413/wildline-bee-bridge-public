@@ -1,13 +1,13 @@
-# Bee Bridge v1.1-public.1 — judge demonstration
+# Bee Bridge v1.1-public.2-docs — judge demonstration
 
-## Exact v1.1-public.1 setup and commands
+## Exact v1.1-public.2-docs setup and commands
 
 Use normal Windows 10/11 x64, a fixed local drive with Windows ACL support, Python 3.14 (tested 3.14.7 x64) and the `py` launcher. No pip dependencies, Core files or Bee account are needed offline.
 
-Use a clean source ZIP extraction of the 37-file **v1.1-public.1** package:
+Use a clean source ZIP extraction of the 37-file **v1.1-public.2-docs** package:
 
 1. Open the [Bee Bridge public-release repository](https://github.com/Lyra-Core-413/wildline-bee-bridge-public) at the exact revision identified in the release verification record. Select **Code → Download ZIP → Extract All**. The separate release record supplies the reviewed commit/download link and records public-access verification; this source document does not certify current repository visibility.
-2. Extract all files to a fixed local Windows drive with no linked or reparse-point parent directories. Use a normal local folder outside OneDrive or other synchronized folders. Open PowerShell in the extracted folder containing `RUN-JUDGE.cmd` and `RUN-TESTS.cmd`. Confirm `PACKAGE-MANIFEST.json` identifies `derivative_version: v1.1-public.1`.
+2. Extract all files to a fixed local Windows drive with no linked or reparse-point parent directories. Use a normal local folder outside OneDrive or other synchronized folders. Open PowerShell in the extracted folder containing `RUN-JUDGE.cmd` and `RUN-TESTS.cmd`. Confirm `PACKAGE-MANIFEST.json` identifies `derivative_version: v1.1-public.2-docs`.
 3. Use a clean extracted source ZIP. A Git clone includes `.git` metadata, which triggers `PACKAGE_INTEGRITY_FAILED`. Any added, missing or changed file also fails integrity. Keep archives, verification reports, redirected logs and generated output outside the package. Preserve the package files exactly as extracted.
 4. Confirm Python with `py -3.14 --version`. Then run the commands below: `RUN-JUDGE.cmd` is the **fictional demonstration**; `RUN-TESTS.cmd` runs the **107-test fictional/mock offline suite**. No Bee account, Bee executable, credentials or Lyra Core files are required offline.
 
@@ -74,7 +74,7 @@ Refusal performs no read. Auth/CLI failure, interruption, reader mismatch or cle
 
 ### Integrity
 
-This public derivative is v1.1-public.1: 37 files, with 35 payload files bound by PACKAGE-MANIFEST.json and the manifest bound by PACKAGE-ANCHOR.sha256. It has a new seal; the original private packages and earlier seals remain preserved separately. Any later documentation or other packaged-file change requires a new version, refreshed manifest/anchor and verification; never reuse an old seal. The retained `WILDLINE_PRIVATE_SINGLE_BRIDGE_V1` manifest format is an internal compatibility identifier, not a repository-visibility statement. Runtime refuses missing, extra or changed files, including Git metadata.
+This public derivative is v1.1-public.2-docs: 37 files, with 35 payload files bound by PACKAGE-MANIFEST.json and the manifest bound by PACKAGE-ANCHOR.sha256. It has a new seal; the original private packages and earlier seals remain preserved separately. Any later documentation or other packaged-file change requires a new version, refreshed manifest/anchor and verification; never reuse an old seal. The retained `WILDLINE_PRIVATE_SINGLE_BRIDGE_V1` manifest format is an internal compatibility identifier, not a repository-visibility statement. Runtime refuses missing, extra or changed files, including Git metadata.
 
 ## VERIFIED — October 11 live evidence update
 

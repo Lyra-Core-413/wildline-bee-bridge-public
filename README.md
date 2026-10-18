@@ -1,3 +1,19 @@
+<p><img src="https://raw.githubusercontent.com/Lyra-Core-413/wildline-legacy-showcase/main/assets/branding/morrowweave-logo.png" alt="MorrowWeave company logo" width="420"></p>
+
+<p><img src="https://raw.githubusercontent.com/Lyra-Core-413/wildline-legacy-showcase/main/assets/branding/wildline-logo.png" alt="Wildline project logo" width="280"></p>
+
+**MorrowWeave** is the venture. **Project Wildline** is the continuity project. **Lyra Nexus** is the memory-observatory interface. **Living Legacy** is the experience and longer-term product vision.
+
+**[Enter the Living Legacy Reading Room — explore the Galaxy map](https://lyra-core-413.github.io/wildline-legacy-showcase/)** · [Devpost project](https://devpost.com/software/wildline)
+
+The current Reading Room is the Galaxy: 21 curated records and 11 labeled relationships across seven chapters. Select a star, inspect its source, or choose **Follow the Footsteps**. The public chapter explores how information overload led to the work called Wildline. Family access, broad synchronization and graph-aware conversation remain future capabilities. The LYRA launcher opens ChatGPT separately; Voice starts manually and receives no automatic map context.
+
+## October 18, 2026 documentation revision
+
+This **v1.1-public.2-docs** revision updates branding, public links and Living Legacy presentation, and refreshes package integrity metadata. Executable source, tests, fictional fixtures, dependencies and the MIT LICENSE are unchanged. The earlier [Bridge package at `bbe01e8c67a1`](https://github.com/Lyra-Core-413/wildline-bee-bridge-public/tree/bbe01e8c67a1a6492fc8f4435598d75e82c600e1) remains available with its original seal.
+
+The retained **107-test Windows result belongs to the earlier package**. This revision receives documentation, inventory and unchanged-executable checks; the Windows suite has not been rerun here. No new live Bee or model operation is claimed. Any Devpost reference pinned to the earlier commit still identifies that exact package.
+
 # Wildline | Bee Bridge public release
 
 **CONTINUITY WITHOUT CAPTIVITY**
@@ -10,7 +26,7 @@ Wildline began with a Daily Command Center: Amazon Bee captured real-world conte
 
 ## What this Bee Bridge is designed to show
 
-**A. Offline, fictional demonstration:** The v1.1-public.1 default validates one fictional source observation and recovers an actual source-qualified answer in a separate process. It makes uncertainty and `authority: NONE` visible. This path requires no Bee account. The retained fictional A/B pair is a separate regression interface.
+**A. Offline, fictional demonstration:** The v1.1-public.2-docs default validates one fictional source observation and recovers an actual source-qualified answer in a separate process. It makes uncertainty and `authority: NONE` visible. This path requires no Bee account. The retained fictional A/B pair is a separate regression interface.
 
 **B. Consent-gated real Bee bridge:** Optional live mode lets an operator specify a Fact ID from their own authorized account and explicitly approve one read, selected-field private capture and fresh-process recovery. The successful founder-supervised October 11 test of the earlier private v1.1 package recorded **one genuine CLI call (exit 0, no retries)** and a distinct reader process. That historical result is not a new live test of this public derivative. Selected personal data and its receipt remain outside distributable archives.
 
@@ -21,10 +37,10 @@ Wildline began with a Daily Command Center: Amazon Bee captured real-world conte
 
 Use normal Windows 10/11 x64, a fixed local drive with ACL support, Python 3.14 (tested 3.14.7 x64) and the Windows `py` launcher. No pip packages, Core files or Bee account are required offline.
 
-Use a clean source ZIP extraction of the 37-file **v1.1-public.1** package:
+Use a clean source ZIP extraction of the 37-file **v1.1-public.2-docs** package:
 
 1. Open the [Bee Bridge public-release repository](https://github.com/Lyra-Core-413/wildline-bee-bridge-public) at the exact revision identified in the release verification record. Select **Code → Download ZIP → Extract All**. The separate release record supplies the reviewed commit/download link and records public-access verification; this source document does not certify current repository visibility.
-2. Extract all files to a fixed local Windows drive with no linked or reparse-point parent directories. Use a normal local folder outside OneDrive or other synchronized folders. Open PowerShell in the extracted folder containing `RUN-JUDGE.cmd` and `RUN-TESTS.cmd`. Confirm `PACKAGE-MANIFEST.json` identifies `derivative_version: v1.1-public.1`.
+2. Extract all files to a fixed local Windows drive with no linked or reparse-point parent directories. Use a normal local folder outside OneDrive or other synchronized folders. Open PowerShell in the extracted folder containing `RUN-JUDGE.cmd` and `RUN-TESTS.cmd`. Confirm `PACKAGE-MANIFEST.json` identifies `derivative_version: v1.1-public.2-docs`.
 3. Use a clean extracted source ZIP. A Git clone includes `.git` metadata, which triggers `PACKAGE_INTEGRITY_FAILED`. Any added, missing or changed file also fails integrity. Keep archives, verification reports, redirected logs and generated output outside the package. Preserve the package files exactly as extracted.
 4. Confirm Python with `py -3.14 --version`. Then run the commands below: `RUN-JUDGE.cmd` is the **fictional demonstration**; `RUN-TESTS.cmd` runs the **107-test fictional/mock offline suite**. No Bee account, Bee executable, credentials or Lyra Core files are required offline.
 
@@ -65,7 +81,7 @@ Source publication grants no account access or rights to anyone's personal recor
 
 **Preserve the line. Keep it wild.**
 
-The v1.1-public.1 derivative contains 37 files and retains the existing 107 fictional/mock tests. It replaces inherited private refusal-policy metadata with a fictional public policy fingerprint, with the corresponding H5 engine pin refreshed. This is a disclosed source difference from the private package. The earlier 28-file v1.1 package, historical replay and saved genuine evidence remain preserved separately.
+The v1.1-public.2-docs derivative contains 37 files and retains the existing 107 fictional/mock tests. It replaces inherited private refusal-policy metadata with a fictional public policy fingerprint, with the corresponding H5 engine pin refreshed. This is a disclosed source difference from the private package. The earlier 28-file v1.1 package, historical replay and saved genuine evidence remain preserved separately.
 
 **Live v1.1 single-Fact recovery ≠ historical change replay ≠ full sync.**
 
@@ -83,7 +99,7 @@ VERIFIED means a bounded behavior supported by an attributed retained report or 
 
 ## Public derivative and integrity
 
-This public derivative is v1.1-public.1: 37 files, with 35 payload files bound by PACKAGE-MANIFEST.json and the manifest bound by PACKAGE-ANCHOR.sha256. It has a new seal; the original private packages and earlier seals remain preserved separately. Any later documentation or other packaged-file change requires a new version, refreshed manifest/anchor and verification; never reuse an old seal. The retained `WILDLINE_PRIVATE_SINGLE_BRIDGE_V1` manifest format is an internal compatibility identifier, not a repository-visibility statement.
+This public derivative is v1.1-public.2-docs: 37 files, with 35 payload files bound by PACKAGE-MANIFEST.json and the manifest bound by PACKAGE-ANCHOR.sha256. It has a new seal; the original private packages and earlier seals remain preserved separately. Any later documentation or other packaged-file change requires a new version, refreshed manifest/anchor and verification; never reuse an old seal. The retained `WILDLINE_PRIVATE_SINGLE_BRIDGE_V1` manifest format is an internal compatibility identifier, not a repository-visibility statement.
 
 The earlier private v1.1 releases have retained 107-test fictional/mock verification on the development Windows PC. This public derivative adds MIT licensing and public setup documentation, replaces the private refusal-policy fingerprint with a fictional one, and refreshes the affected H5 engine pin and package seal. Tests, launchers, fixtures and dependency bytes are preserved. Its own offline test results and final GitHub ZIP/access checks must be attributed to the separate public-release verification record. This revision performs no new live Bee operation or second-computer test.
 

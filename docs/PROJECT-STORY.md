@@ -1,3 +1,11 @@
+## Current MorrowWeave presentation
+
+**MorrowWeave** is the venture. **Project Wildline** is the continuity project. **Lyra Nexus** is the memory-observatory interface. **Living Legacy** is the experience and longer-term product vision.
+
+**[Enter the Living Legacy Reading Room — explore the Galaxy map](https://lyra-core-413.github.io/wildline-legacy-showcase/)** · [Devpost project](https://devpost.com/software/wildline)
+
+The current Reading Room is the Galaxy: 21 curated records and 11 labeled relationships across seven chapters. Select a star, inspect its source, or choose **Follow the Footsteps**. The public chapter explores how information overload led to the work called Wildline. Family access, broad synchronization and graph-aware conversation remain future capabilities. The LYRA launcher opens ChatGPT separately; Voice starts manually and receives no automatic map context.
+
 # The story behind Wildline
 
 *A condensed founder-provided derivative. The full canonical narrative remains private and byte-identical in the alignment handoff; it is not a release asset.*

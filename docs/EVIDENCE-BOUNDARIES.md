@@ -1,3 +1,9 @@
+## October 18, 2026 documentation revision
+
+This **v1.1-public.2-docs** revision updates branding, public links and Living Legacy presentation, and refreshes package integrity metadata. Executable source, tests, fictional fixtures, dependencies and the MIT LICENSE are unchanged. The earlier [Bridge package at `bbe01e8c67a1`](https://github.com/Lyra-Core-413/wildline-bee-bridge-public/tree/bbe01e8c67a1a6492fc8f4435598d75e82c600e1) remains available with its original seal.
+
+The retained **107-test Windows result belongs to the earlier package**. This revision receives documentation, inventory and unchanged-executable checks; the Windows suite has not been rerun here. No new live Bee or model operation is claimed. Any Devpost reference pinned to the earlier commit still identifies that exact package.
+
 # Evidence and claims ledger
 
 *This ledger distinguishes reported receipts and test results from features available in any particular distributable archive. The founder's private operation records are not published here.*

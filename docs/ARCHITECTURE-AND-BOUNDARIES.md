@@ -53,7 +53,7 @@ The sequence describes a **human-AI reasoning and governance method** observed i
 | **Wildline** | Reusable continuity architecture reverse-engineered from the working reference experience |
 | **Wildline Lab** | Isolated environment for experiments and tests before any promotion decision |
 | **Public MIT Continuity Reader** | Separate fictional-only source-qualified reader demonstration |
-| **Public Bee Bridge v1.1-public.1** | Fictional default and optional consent-gated selected Fact acquisition with fresh-process recovery; project-owned source under MIT, with its own release verification record |
+| **Public Bee Bridge v1.1-public.2-docs** | Fictional default and optional consent-gated selected Fact acquisition with fresh-process recovery; project-owned source under MIT, with its own release verification record |
 | **Historical private Bee v1.1 bridge** | Preserved package verified in one bounded founder-run live operation; its genuine evidence is not published in the public derivative |
 
 ## Authority and governance
